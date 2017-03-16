@@ -1,0 +1,15 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "fluture": "^5.0.0",
+    "futurize": "^1.2.0"
+  },
+  "devDependencies": {
+    "babel-register": "^6.24.0",
+    "minimist": "^1.2.0"
+  }
+}
