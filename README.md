@@ -2,10 +2,6 @@
 
 Doing [Advent of Code](http://adventofcode.com)
 
-I say "reluctantly" because I got dragged into it by a friend midway through last year, and felt the need to follow through.
-
-Despite this, I still intend to compete for fast times on the leaderboards.
-
 All solutions are written in Javascript for now.
 
 # Input

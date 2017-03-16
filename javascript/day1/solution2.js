@@ -21,11 +21,6 @@ if (!input) {
     })
 }
 
-function beenCheck(locs, g) {
-  'use strict';
-
-}
-
 /**
  * Given input array of directions ['R5','L2'...] calculate the Manhattan distance of the final point
  * @param input
